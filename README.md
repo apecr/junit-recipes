@@ -1,2 +1,2 @@
 # junit-recipes
-junit-recipes Change from branch 2
+junit-recipes Cambios de los dos branches conjuntos (1 y 2)
