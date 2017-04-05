@@ -1,3 +1,4 @@
 # junit-recipes
 junit-recipes
-Conflicto en linea desde el branch 1 
+Resolvemos nuevamente el conflicto desde el branch  2 en este caso.
+Saludos
